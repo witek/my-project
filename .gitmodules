@@ -1,0 +1,3 @@
+[submodule "my-module"]
+	path = my-module
+	url = git@github.com:witek/my-module.git
